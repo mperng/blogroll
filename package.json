@@ -1,0 +1,24 @@
+{
+  "name": "blogroll",
+  "version": "1.0.0",
+  "description": "Blog Roll Built in Backbone.js, using tutorial here: https://www.youtube.com/watch?v=4WJLlWpzpP0",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mperng/blogroll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mperng/blogroll/issues"
+  },
+  "homepage": "https://github.com/mperng/blogroll#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.1"
+  }
+}
